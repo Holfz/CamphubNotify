@@ -1,6 +1,7 @@
 # Camphub-LineNotify
 
-[![Known Vulnerabilities](https://snyk.io/test/github/Holfz/CamphubNotify/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Holfz/CamphubNotify?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json) [![dependencies Status](https://david-dm.org/Holfz/CamphubNotify/status.svg?style=flat-square)](https://david-dm.org/Holfz/CamphubNotify)
+
 
 ## Setup
 
