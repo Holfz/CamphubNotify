@@ -6,7 +6,7 @@
 
 #### ตั้งค่า Line Notify
 
-1. ไปที่ LineNotify(https://notify-bot.line.me/th/)
+1. ไปที่ [LineNotify](https://notify-bot.line.me/th/)
 2. เข้าสู่ระบบ
 3. ให้คลิ๊กเลือกเมนูด้านขวาบนตรงชื่อ account ของเรา และเลือกที่หน้าของฉัน
 4. หลังจากที่คลิ๊กเลือกที่หน้าของฉันแล้ว ให้สังเกตุว่าจะมีปุ่มให้เลือกที่มีคำว่า “ออก Token”
@@ -15,7 +15,7 @@
 7.  กดออก Token
 >กรุณาเก็บ Token ไว้ที่**ตัวเอง**คนเดียวเท่านั้น ห้ามส่งให้คนอื่นอย่างเด็ดขาด.
 
-อ้างอิง Thinknet(https://engineering.thinknet.co.th/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-line-notify-670f9b20ac27)
+อ้างอิง [Thinknet](https://engineering.thinknet.co.th/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-line-notify-670f9b20ac27)
 
 #### ตั้งค่า Bot ตรวจสอบ
 
@@ -40,4 +40,4 @@ node app.js
 
 ## Credit
 
- - GamerXP(http://www.gamerxp.in.th/) สำหรับ Jquery Function.
+ - [GamerXP]http://www.gamerxp.in.th/) สำหรับ Jquery Function.
