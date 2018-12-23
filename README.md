@@ -40,4 +40,4 @@ node app.js
 
 ## Credit
 
- - [GamerXP]http://www.gamerxp.in.th/) สำหรับ Jquery Function.
+ - [GamerXP](http://www.gamerxp.in.th/) สำหรับ Jquery Function.
