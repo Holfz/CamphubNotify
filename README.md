@@ -1,5 +1,5 @@
 # Camphub-LineNotify
-
+[![Known Vulnerabilities](https://snyk.io/test/github/Holfz/CamphubNotify/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Holfz/CamphubNotify?targetFile=package.json)
 แจ้งเตือนเข้าไปในเมื่อมีแคมป์ใหม่เข้ามาในหมวดคอม Camphub.
 
 ## Setup
