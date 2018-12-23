@@ -2,6 +2,8 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/Holfz/CamphubNotify/badge.svg?style=flat-square?targetFile=package.json)](https://snyk.io/test/github/Holfz/CamphubNotify?targetFile=package.json) [![dependencies Status](https://david-dm.org/Holfz/CamphubNotify/status.svg?style=flat-square)](https://david-dm.org/Holfz/CamphubNotify)
 
+![](https://i.imgur.com/JBBw3aP.jpg)
+
 
 ## Setup
 
