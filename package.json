@@ -4,7 +4,7 @@
   "description": "New Computer Camp on Camphub.com Notify",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js",
+    "test": "node app.js"
   },
   "author": "Holfz",
   "license": "MIT",
