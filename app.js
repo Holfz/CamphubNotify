@@ -32,7 +32,7 @@ function parseData(html){
     const {JSDOM} = jsdom;
     const dom = new JSDOM(html);
     const $ = (require('jquery'))(dom.window);
-    let queryOpen = $('.main-box-inside .vce-loop-wrap article.vce-post header.entry-header span.closedate:not(.close-black-rev)').parents('article');
+    let queryOpen = $('.main-box-inside .vce-loop-wrap article.vce-post');
     let OpenCamp = [];
     queryOpen.each(function(k,element){
         let thisElement = $(element);
@@ -40,8 +40,8 @@ function parseData(html){
         let title = thisElement.find('header h2').text();
         let url = thisElement.find('header h2 a').attr('href');
         let desc = thisElement.find('div.entry-content').text();
-        //console.log(db.get('camp').find({ title: title }).value());
-        if(db.get('camp').find({ title: title }).value() == undefined) {
+        let closedate = thisElement.find('span.closedate').text();
+        if(db.get('camp').find({ title: title }).value() == undefined && closedate != 'ปิดรับสมัครแล้ว') {
             OpenCamp.push({
                 imagesrc: imagesrc,
                 title: title,
