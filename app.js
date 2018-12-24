@@ -40,7 +40,7 @@ function parseData(html){
         let title = thisElement.find('header h2').text();
         let url = thisElement.find('header h2 a').attr('href');
         let desc = thisElement.find('div.entry-content').text();
-        console.log(db.get('camp').find({ title: title }).value());
+        //console.log(db.get('camp').find({ title: title }).value());
         if(db.get('camp').find({ title: title }).value() == undefined) {
             OpenCamp.push({
                 imagesrc: imagesrc,
