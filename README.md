@@ -22,7 +22,7 @@
 
 #### ตั้งค่า Bot ตรวจสอบ
 
-1. Clone หรือ Download โปรเจคนี้
+1. Clone หรือ Download โปรเจคนี้ (หากต้องการเวอร์ชั่นที่เก่ากว่ากรุณาไปที่ [Release](https://github.com/Holfz/CamphubNotify/releases))
 2. แตกไฟล์หรือไปที่ฟอเดอร์ที่โปรเจคอยู่
 3. เปิด Console ขึ้นมา
 4. พิม npm install เพื่อลง Dependencies
